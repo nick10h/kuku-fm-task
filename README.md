@@ -7,7 +7,7 @@ Welcome to KukuFM AI, a next-gen AI-powered platform that lets users co-create t
 ### Installation Steps
 Clone the repository
 ```bash
-git clone https://github.com/MeetSharma121/KukuFM-Task.git
+git clone https://github.com/nick10h/kuku-fm-task
 ```
 Navigate into the project folder
 ```bash
